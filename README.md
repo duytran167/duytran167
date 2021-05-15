@@ -3,15 +3,12 @@
   </h4>
 
 
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+<a href="https://www.instagram.com/ditranne/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="" height="30" width="30">
+  </a>
+  <a href="https://www.pinterest.com/kuduy1607/">
+    <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="" height="30" width="30">
+  </a>
 
 
 
@@ -22,7 +19,7 @@
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
