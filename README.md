@@ -1,26 +1,9 @@
 <h3 title="hehehe"> Hey 👋, I'm Duy Tran!</h3>
-<h4> Contact
-  </h4>
-
-
-<a href="https://www.instagram.com/ditranne/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="" height="30" width="30">
-  </a>
-  <a href="https://www.pinterest.com/kuduy1607/">
-    <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="" height="30" width="30">
-  </a>
-   <a href="https://stackoverflow.com/users/14400799/duy-tran">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="" height="30" width="30">
-  </a>
-   <a href="https://soundcloud.com/hi_duytran">
-    <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="" height="30" width="30">
-  </a>
-
-
-
 
 <br />
 <br />
+![GitHub followers](https://img.shields.io/github/followers/duytran167?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=duytran167)
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
@@ -61,6 +44,26 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=duytran167&show_icons=true&theme=radical">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duytran167&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=duytran167&count_private=true&theme=radical" alt="Jas-Script" />
+<h4> Contact
+  </h4>
+
+
+<a href="https://www.instagram.com/ditranne/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="" height="30" width="30">
+  </a>
+  <a href="https://www.pinterest.com/kuduy1607/">
+    <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="" height="30" width="30">
+  </a>
+   <a href="https://stackoverflow.com/users/14400799/duy-tran">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="" height="30" width="30">
+  </a>
+   <a href="https://soundcloud.com/hi_duytran">
+    <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="" height="30" width="30">
+  </a>
+
+
+
+
 
 ----
 Credit: [lupin](https://github.com/duytran167)
