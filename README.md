@@ -29,7 +29,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a student Bachelors's in Information Technology of Greenwich University
+- 👨🏽‍💻 I’m currently a student Bachelors's in Information Technology 
 - 🌱 I’m currently exploring JAVA and full-stack JAVA.
 - 🤔 My interest lies in back-end web development.
 - 💬 Ask me about anything, I love to answer!
