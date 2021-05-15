@@ -26,7 +26,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a student of Greenwich University
+- 👨🏽‍💻 I’m currently a student Bachelors's in Information Technology of Greenwich University
 - 🌱 I’m currently exploring JAVA and full-stack JAVA.
 - 🤔 My interest lies in back-end web development.
 - 💬 Ask me about anything, I love to answer!
@@ -51,6 +51,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+Credit: [lupin](https://github.com/duytran167)
 
 Last Edited on: 04/01/2021
