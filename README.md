@@ -9,6 +9,12 @@
   <a href="https://www.pinterest.com/kuduy1607/">
     <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" alt="" height="30" width="30">
   </a>
+   <a href="https://stackoverflow.com/users/14400799/duy-tran">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="" height="30" width="30">
+  </a>
+   <a href="https://soundcloud.com/hi_duytran">
+    <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="" height="30" width="30">
+  </a>
 
 
 
@@ -59,4 +65,4 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 ----
 Credit: [lupin](https://github.com/duytran167)
 
-Last Edited on: 04/01/2021
+
