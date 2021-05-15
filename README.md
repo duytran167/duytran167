@@ -2,8 +2,9 @@
 
 <br />
 <br />
-![GitHub followers](https://img.shields.io/github/followers/duytran167?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=duytran167)
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=duytran167&color=brightgreen" alt="watching_count" />
+ </p>
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
