@@ -60,6 +60,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
    <a href="https://soundcloud.com/hi_duytran">
     <img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="" height="30" width="30">
   </a>
+  <a href="https://linkedin.com/duytranquang167/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
+  </a>
    <a href="https://facebook.com/ditranne/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="" height="30" width="30">
   </a>
