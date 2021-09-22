@@ -18,6 +18,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🤔 My interest lies in back-end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [kuduy1607@gmail.com](mailto:kuduy1607@gmail.com).
+- My CV: https://duytran167.github.io/cvonline/
 
 
 
